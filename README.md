@@ -49,7 +49,7 @@ Make sure to download the dataset as netflix.csv and place it in the project dir
 
 Clone this repository:
 
-git clone https://github.com/your-username/netflix-data-visualization.git
+git clone https://github.com/srigirinikhila/Netflix-Data-Cleaning-And-Visualization.git
 cd netflix-data-visualization
 
 
